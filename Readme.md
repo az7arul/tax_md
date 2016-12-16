@@ -1,6 +1,6 @@
 ## Setup
 
-Unzip the Solution.zip file and cd into it.
+Unzip the tax_md-master.zip file and cd into it.
 
 No dependencies are needed to run `bin/tax_md.rb` except a recent ruby version ( ruby 2.2.1p85 was used to write the solution )
 
